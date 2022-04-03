@@ -37,7 +37,7 @@ python train.py --img 416 --batch 16 --epochs 1 --data ../datasets/Vehicle-Detec
 
 
 
-<details>
+<details open>
 <summary>Inference with detect.py</summary>
 
 ```bash
@@ -47,7 +47,7 @@ python detect.py --weights runs/train/exp/weights/best.pt --img 416 --conf 0.1 -
 
 </details>
 
-<details>
+<details open>
    <summary> Results and Metric Of the Model </summary>
    
    ![F1_curve](https://github.com/Gary-Ng/VehicleDetection/blob/main/yolov5/yolov5/runs/train/exp/F1_curve.png)
