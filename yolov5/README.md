@@ -48,7 +48,9 @@ python detect.py --weights runs/train/exp/weights/best.pt --img 416 --conf 0.1 -
 </details>
 
 <details open>
-   <summary> Results and Metric Of the Model </summary>
+   <summary> Validation of Model </summary>
+   
+   python val.py --weights runs/train/exp/weights/best.pt --data ../datasets/Vehicle-Detection-1/data.yaml --img 640 --iou 0.6 --half
    
    ![F1_curve](https://github.com/Gary-Ng/VehicleDetection/blob/main/yolov5/yolov5/runs/train/exp/F1_curve.png)
  </details>
