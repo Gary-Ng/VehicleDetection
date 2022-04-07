@@ -42,7 +42,13 @@ python train.py --img 416 --batch 16 --epochs 1 --data ../datasets/Vehicle-Detec
 
 ```bash
 Inferencing of images
-python detect.py --weights runs/train/exp/weights/best.pt --img 416 --conf 0.1 --source ../datasets/Vehicles-Detection-1/test/images
+python detect.py --weights runs/train/exp/weights/best.pt --img 416 --source ../datasets/Vehicles-Detection-1/test/images
+   
+Inferencing of youtube videos [pafy and youtube_dl dependencies needed] 
+python detect.py --weights runs/train/exp/weights/best.pt --img 416 --source {insert link of youtube video}
+   
+Inferencing and download of video locally
+python detect.py --weights runs/train/exp/weights/best.pt --img 416 --source {path to video}
 ```
 
 </details>
