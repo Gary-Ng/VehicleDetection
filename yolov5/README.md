@@ -57,7 +57,8 @@ python detect.py --weights runs/train/exp/weights/best.pt --img 416 --source {pa
 <details open>
    <summary> Gif of result </summary>
    
-   ![GIF](https://github.com/Gary-Ng/VehicleDetection/blob/main/yolov5/yolov5/images/yolov5.gif>
+   ![GIF](https://github.com/Gary-Ng/VehicleDetection/blob/main/yolov5/yolov5/images/yolov5.gif)
+   </details>
    
 </details>
 
@@ -71,7 +72,7 @@ python detect.py --weights runs/train/exp/weights/best.pt --img 416 --source {pa
 
 <details>
    <summary>fps image</summary>
-    ![fps](https://github.com/Gary-Ng/VehicleDetection/blob/main/yolov5/yolov5/images/yolov5_fps.JPG)
+    ![fps](https://github.com/Gary-Ng/VehicleDetection/blob/main/yolov5/yolov5/images/yolov5_fps.jpg)
    
 <details>
 <summary> Contribution and Credits </summary>
