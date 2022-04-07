@@ -72,8 +72,9 @@ python detect.py --weights runs/train/exp/weights/best.pt --img 416 --source {pa
 
 <details>
    <summary>fps image</summary>
-    ![fps](https://github.com/Gary-Ng/VehicleDetection/blob/main/yolov5/yolov5/images/yolov5_fps.jpg)
-   
+    ![fps](https://github.com/Gary-Ng/VehicleDetection/blob/main/yolov5/yolov5/images/yolov5_fps.JPG)
+
+</details>
 <details>
 <summary> Contribution and Credits </summary>
 ## <div align="center">Contribute</div>
