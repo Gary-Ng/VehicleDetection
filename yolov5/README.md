@@ -53,6 +53,14 @@ python detect.py --weights runs/train/exp/weights/best.pt --img 416 --source {pa
 
 </details>
 
+
+<details open>
+   <summary> Gif of result </summary>
+   
+   ![GIF](https://github.com/Gary-Ng/VehicleDetection/blob/main/yolov5/yolov5.gif)
+   
+</details>
+
 <details open>
    <summary> Validation of Model </summary>
    
