@@ -69,7 +69,7 @@ python detect.py --weights runs/train/exp/weights/best.pt --img 416 --source {pa
    ![PR_curve](https://github.com/Gary-Ng/VehicleDetection/blob/main/yolov5/yolov5/runs/val/exp/PR_curve.png)
  </details>
 
-<details>
+<details open>
    <summary> FPS Image </summary>
    
     ![FPS](https://github.com/Gary-Ng/VehicleDetection/blob/main/yolov5/yolov5/images/yolov5_fps.JPG)
