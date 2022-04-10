@@ -49,6 +49,9 @@ python detect.py --weights runs/train/exp/weights/best.pt --img 416 --source {in
    
 Inferencing and download of video locally
 python detect.py --weights runs/train/exp/weights/best.pt --img 416 --source {path to video}
+
+Get metric
+python val.py --weights runs/train/exp/weights/best.pt --data ../datasets/Vehicle-Detection-1/data.yaml --img 640 --iou 0.6 --half
 ```
 
 </details>
