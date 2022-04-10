@@ -46,9 +46,3 @@ YOLOv5 🚀
    ![mAP](https://github.com/Gary-Ng/VehicleDetection/blob/main/ssd_tflite/ssd_mAP.jpg)
  </details>
 
-<details open>
-   <summary> Yolov5 FPS </summary>
-   
-   ![](https://github.com/Gary-Ng/VehicleDetection/blob/main/yolov5/yolov5/images/yolov5-fps.jpg)
-   
-</details>
