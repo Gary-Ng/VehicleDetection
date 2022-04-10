@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Bus</folder>
+	<filename>bus 404.jpg</filename>
+	<path>C:\Users\Merida\Desktop\Bus\bus 404.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1346</width>
+		<height>1355</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cng</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>756</ymin>
+			<xmax>130</xmax>
+			<ymax>941</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cng</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>729</ymin>
+			<xmax>62</xmax>
+			<ymax>1002</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>112</xmin>
+			<ymin>279</ymin>
+			<xmax>984</xmax>
+			<ymax>1193</ymax>
+		</bndbox>
+	</object>
+</annotation>

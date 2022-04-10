@@ -1,0 +1,52 @@
+item {
+  id:1
+  name:'bicycle'
+}
+item {
+  id:2
+  name:'car'
+}
+item {
+  id:3
+  name:'bike'
+}
+item {
+  id:4
+  name:'boat'
+}
+item {
+  id:5
+  name:'cng'
+}
+item {
+  id:6
+  name:'bus'
+}
+item {
+  id:7
+  name:'truck'
+}
+item {
+  id:8
+  name:'van'
+}
+item {
+  id:9
+  name:'leguna'
+}
+item {
+  id:10
+  name:'rickshaw'
+}
+item {
+  id:11
+  name:'easybike'
+}
+item {
+  id:12
+  name:'tractor'
+}
+item {
+  id:13
+  name:'horsecart'
+}
