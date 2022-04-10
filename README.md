@@ -41,7 +41,9 @@ YOLOv5 🚀
 <details open>
    <summary> Validation of Model </summary>
    
-   ![Recall]https://github.com/Gary-Ng/VehicleDetection/blob/main/ssd_tflite/ssd_recall.jpg)
+   ![Recall](https://github.com/Gary-Ng/VehicleDetection/blob/main/ssd_tflite/ssd_recall.jpg)
+   
+   ![mAP](https://github.com/Gary-Ng/VehicleDetection/blob/main/ssd_tflite/ssd_mAP.jpg)
  </details>
 
 <details open>
