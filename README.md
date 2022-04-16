@@ -7,8 +7,7 @@ YOLOv5 🚀
 
 <details open>
    <summary> Gif of Yolov5 </summary>
-   
-   ![GIF](https://github.com/Gary-Ng/VehicleDetection/blob/main/yolov5/yolov5/images/yolov5.gif)
+  
    
 </details>
 
