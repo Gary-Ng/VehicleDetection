@@ -15,7 +15,7 @@ YOLOv5 🚀
 <details open>
    <summary> Validation of Model </summary>
    
-   ![PR_curve](https://github.com/Gary-Ng/VehicleDetection/blob/main/yolov5/yolov5/runs/val/exp/PR_curve.png)
+   ![PR_curve](https://github.com/Gary-Ng/VehicleDetection/blob/main/yolov5/yolov5/runs/val/exp2/PR_curve.png)
  </details>
 
 <details open>
